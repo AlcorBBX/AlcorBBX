@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 I am Matisov Lev, a **Front End Web Developer**. I'm learning and focusing in React and React Native.
+🎓 I am Matisov Lev, a **Front End Web Developer**.
 
 ## 🛠️ Skills
 
