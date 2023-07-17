@@ -37,8 +37,7 @@
 
 
 ## :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlcorBBX&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AlcorBBX&theme=burnt-neon&border_radius=30&card_width=500&type=png)](https://git.io/streak-stats)
 
 ###
 
