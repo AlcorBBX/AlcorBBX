@@ -34,3 +34,12 @@
 [![resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=read-the-docs&logoColor=white)]()
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/AlcorBBX)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:lev.matiosov55@gmail.com)
+
+
+## :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlcorBBX&theme=dark&background=000000)](https://git.io/streak-stats)
+
+###
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlcorBBX&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
