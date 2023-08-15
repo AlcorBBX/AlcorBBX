@@ -4,6 +4,7 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
 ## 🚀 About Me
+<img src="https://www.codewars.com/users/alcor_bbx/badges/large">
 
 🎓 I am Matisov Lev, a **Front End Web Developer**.
 
