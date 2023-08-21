@@ -15,7 +15,7 @@
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![lua](https://img.shields.io/badge/Lua-3118D1?style=for-the-badge&logo=lua&logoColor=white)
-
+![rust](https://img.shields.io/badge/Rust-8b0000?style=for-the-badge&logo=rust&logoColor=white)
 
 ### Front-End Development
 
