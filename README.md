@@ -2,7 +2,7 @@
 
 
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
-
+<!--
 ## 🚀 About Me
 <img src="https://www.codewars.com/users/alcor_bbx/badges/large">
 
@@ -46,3 +46,5 @@
 ###
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlcorBBX&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+-->
